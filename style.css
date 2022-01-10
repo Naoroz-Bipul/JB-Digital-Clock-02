@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	font-family: 'Poppins';
+	box-sizing:border-box;
+}
+body {
+	width: 100%;
+	height: 100%;
+	background-image: url('images/bg-image.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.digital-clock {
+	margin-top: 80px;
+	display: flex;
+	justify-content: center;
+}
